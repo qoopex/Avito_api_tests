@@ -2,15 +2,15 @@
 
 Task 2/  
 ├── tests/  
-	├── __init__.py  
-	├── conftest.py # Конфигурация и фикстуры тестов
-	├── test_create.py# Тесты создания объявлений
-	├── test_get.py# Тесты получения объявлений
-	├── test_statistics.py# Тесты статистики
-	└── test_delete.py # Тесты удаления объявлений 
+├── __init__.py  
+│ ├── conftest.py # Конфигурация и фикстуры тестов
+│ ├─ test_create.py# Тесты создания объявлений
+│ ├── test_get.py# Тесты получения объявлений
+│ ├── test_statistics.py# Тесты статистики
+│ └─── test_delete.py # Тесты удаления объявлений 
 ├── utils/  
-	├── __init__.py  
-	└── APLclient.py # API клиент для HTTP запросов
+│ ├─── __init__.py  
+│ └── APLclient.py # API клиент для HTTP запросов
 ├── BUGS.md # Документация найденных багов
 ├── TESTCASES.md # Документация тест-кейсов  
 ├── README.md   
