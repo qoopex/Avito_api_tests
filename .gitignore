@@ -1,0 +1,14 @@
+# Python virtual environment
+/.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor folders/files
+.vscode/
+.idea/
