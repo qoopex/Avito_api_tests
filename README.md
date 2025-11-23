@@ -8,25 +8,25 @@
 
 ## 📁 Структура проекта
 
-Avito_api_tests/  
-├── Task1/ # Задание 1
-├── Bugs.md # Описание найденных багов.  
-│ └── Task1_Screenshot.png # Скриншот для анализа.  
-├── Task2/ # Задание 2.1
-│ ├── tests/ # Автотесты  
-│ │ ├── test_create.py # Тесты создания объявлений.
-│ │ ├── test_get.py # Тесты получения объявлений.
-│ │ ├── test_statistics.py # Тесты статистики.
-│ │ ├── test_delete.py # Тесты удаления объявлений.
-│ │ └── conftest.py # Конфигурация тестов.
-│ ├── utils/  # Утилиты
-│ │ └── API_client.py # API клиент.
-│ ├── BUGS.md # Найденные баги в API.
-│ ├── TESTCASES.md # Тест-кейсы.
-│ ├── README.md # Инструкция по запуску ко второму заданию.
-│ └── requirements.txt # Зависимости.
-├── README.md #Этот файл.
-└── .gitignore
+    Avito_api_tests/  
+    ├── Task1/ # Задание 1
+    ├── Bugs.md # Описание найденных багов.  
+        └── Task1_Screenshot.png # Скриншот для анализа.  
+    ├── Task2/ # Задание 2.1
+        ├── tests/ # Автотесты  
+            ├── test_create.py # Тесты создания объявлений.
+            ├── test_get.py # Тесты получения объявлений.
+            ├── test_statistics.py # Тесты статистики.
+            ├── test_delete.py # Тесты удаления объявлений.
+            └── conftest.py # Конфигурация тестов.
+        ├── utils/  # Утилиты
+            └── API_client.py # API клиент.
+        ├── BUGS.md # Найденные баги в API.
+        ├── TESTCASES.md # Тест-кейсы.
+        ├── README.md # Инструкция по запуску ко второму заданию.
+        └── requirements.txt # Зависимости.
+    ├── README.md #Этот файл.
+    └── .gitignore
 
 ## Документация
 
